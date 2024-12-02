@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/producto-integrador/static/css/main.a9bfd4f8.css",
+    "main.js": "/producto-integrador/static/js/main.0ec4d153.js",
+    "index.html": "/producto-integrador/index.html",
+    "main.a9bfd4f8.css.map": "/producto-integrador/static/css/main.a9bfd4f8.css.map",
+    "main.0ec4d153.js.map": "/producto-integrador/static/js/main.0ec4d153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9bfd4f8.css",
+    "static/js/main.0ec4d153.js"
+  ]
+}
